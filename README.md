@@ -1,7 +1,5 @@
 # Solemne-II
 
-# Solemne 02
-
 
 # Habitando lo ajeno
 
