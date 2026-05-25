@@ -231,7 +231,7 @@ function setup() {
 
     
     // DECLARAMOS NUESTRAS CONDICIONALES//
-    // aquí estoy usando condicionales, para decidir desde qué lado        aparecerá cada figura
+    // aquí estoy usando condicionales, para decidir desde qué lado aparecerá cada figura
     // la variable "lado"
     // tiene un número random: 0, 1, 2 o 3
     // dependiendo del número, cambia la posición de la figura.
@@ -272,7 +272,7 @@ function setup() {
       
       
       size: random(30,80), // Aca decimos que a la forma se le asignara un tamaño random de 30 a 80
-      rot: random(TWO_PI), // Aca creamos una rotación random para cada figura. //TWO_PI visto en clases, para crear este movimiento nervioso, lo que hace es elegir un ángulo random entre 0° y 360°. Por lo que la figura se verá rotada.
+      rot: random(TWO_PI), // Aca creamos una rotación random para cada figura. //TWO_PI visto en clases, para crear este movimiento nervioso, lo que hace es elegir un ángulo random entre       0° y 360°. Por lo que la figura se verá rotada.
       velocidad: random(0.5,1.5) // Aca declaramos que la velocidad variará entre 0.5 a 1.5.
 
     });
@@ -285,12 +285,12 @@ function setup() {
 
 // DRAW //
 //EMPEZAMOS A ACTIVAR
-function draw() {
+  function draw() {
   background(0); // SIN FONDO
 
 
   // USO DE IMÁGENES //
-  image(imgPerson, 0, 0, 700, 700); // POSICIÓN MÁS TAMAÑO DE LA IMAGEN
+     image(imgPerson, 0, 0, 700, 700); // POSICIÓN MÁS TAMAÑO DE LA IMAGEN
   
  
   //CAMBIO DE CURSOR
@@ -314,8 +314,8 @@ function draw() {
   for(let i = 0; i < formas.length; i=i+1){ 
 
     let f = formas[i];
-  // aquí guardo cada figura en una variable más corta llamada "f"
-  // formas[i] significa:"la figura actual del array"
+     // aquí guardo cada figura en una variable más corta llamada "f"
+     // formas[i] significa:"la figura actual del array"
 
 
     // MOVIMIENTO RANDOM / NERVIOSO
@@ -335,7 +335,7 @@ function draw() {
     // AVANZAN HACIA EL CENTRO
 
     if(mouseIsPressed){ //SI MANTIENES EL CLICK DEL MOUSE
-      // Aca definimos estas dos variables que son el calculo entre el centro del sketch y la posición de la figura para definir cuánto le falta a la figura para llegar al centro, que es donde quiero que se dirija.
+      // Aca definimos estas dos variables que son el calculo entre el centro del sketch y la posición de la figura para definir cuánto le falta a la figura para llegar al centro, que es           donde quiero que se dirija.
  
       let dx = width/2 - f.x;
       let dy = height/2 - f.y;
