@@ -81,8 +81,8 @@ Los datos de entrada utilizados en el sistema fueron:
 
 El sistema procesa la información mediante:
 
-- Condicionales ( ` si ` , ` el contrario ` )
-- Bucles ` para `
+- Condicionales ( ` if ` , ` else ` )
+- Bucles ` for `
 - Variables de posición y movimiento.
 - Transformaciones como:
   -  ` translate() `
