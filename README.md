@@ -154,6 +154,8 @@ La interacción permite que el usuario modifique el comportamiento visual en tie
 # DIAGRAMA DE FLUJO
 
 [DIAGRAMA DE FLUJO.pdf](https://github.com/user-attachments/files/28234455/DIAGRAMA.DE.FLUJO.pdf)
+<img width="1414" height="2000" alt="DIAGRAMA DE FLUJO" src="https://github.com/user-attachments/assets/4328c70c-c81c-46e2-8b6c-01cfe7fcdb41" />
+
 
 # CÓDIGO DE P5.JS
 ```markdown
