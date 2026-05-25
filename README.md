@@ -11,8 +11,8 @@
 
 ## Información del proyecto
 
--  ** Nombre del proyecto: **  * Habitando lo ajeno *  
--  ** Autor/a: ** Ayelen Vásquez Navea See More  
+-  **Nombre del proyecto:**  *Habitando lo ajeno*  
+-  **Autor/a:** Ayelen Vásquez Navea See More  
 
 ---
 
@@ -156,9 +156,4 @@ La interacción permite que el usuario modifique el comportamiento visual en tie
 ### Conclusión 
 
 - Como tal realizar esta pieza en p5.js fue todo un desafío, ya que más allá de poder entender y dar uso a los códigos que aprendimos en clases, tratar de crear una pieza gráfica digital e interactiva fue algo totalmente nuevo para mí como estudiante. Además puedo decir que este proyecto también me ayudó a entender que programar no es solamente escribir códigos, sino también experimentar, equivocarse, probar distintas soluciones y construir una idea visual desde algo muy técnico. El proceso fue muy importante porque me permitió comprender mejor cómo pequeñas funciones dentro del código podían cambiar completamente la sensación que transmite una obra. Pensar desde lo conceptual a lo interactivo fue una tarea que dentro de todo disfrute. Debo decir que sé que se pueden hacer piezas mejores. Pero poco a poco creo que entenderé mejor como usar la prpgramación como tal para transmitir mejor una idea y/o emoción al usuario. 
-Footer
-© 2026 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
+
