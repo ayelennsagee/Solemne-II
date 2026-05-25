@@ -16,7 +16,7 @@
 
 ## Descripción objetivo
 
-* Habitando lo ajeno * es una pieza interactiva desarrollada en ** p5.js ** basada en la problemática de la disforia de género.  
+* Habitando lo ajeno * es una pieza interactiva desarrollada en **p5.js** basada en la problemática de la disforia de género.  
 
 La obra muestra en pantalla la imagen de una persona sin rostro definido y con una expresión corporal que transmite desesperación, tensión e incomodidad. La figura principal ocupa el centro del lienzo y representa el conflicto interno relacionado con la identidad y el cuerpo.  
 
